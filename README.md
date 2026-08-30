@@ -15,6 +15,7 @@ Kindo helps teachers, parents, and directors stay connected around a child's day
 - [React](https://react.dev) — UI library
 - [Vite](https://vite.dev) — build tool and dev server
 - [TypeScript](https://www.typescriptlang.org) — type-safe JavaScript
+- [Tailwind CSS](https://tailwindcss.com) — utility-first styling
 
 ## Setup
 
