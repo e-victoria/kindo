@@ -25,3 +25,7 @@ The app is bilingual: **English** and **Polish**. More languages may be added la
 - Every new user-facing string needs both `en` and `pl`. English is the source; Polish must ship in the same change, not as a follow-up.
 - Design layouts for Polish string lengths, not English. Polish is often longer.
 - Locale codes: `en`, `pl`. Keep that shape when adding languages.
+
+## Code style
+
+- Use a semicolon at the end of every statement.
